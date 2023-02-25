@@ -1,0 +1,44 @@
+[
+	{
+		"correct_answers":
+		[
+			"1"
+		],
+		"test": "1\nGEEKSFORGEEKS\nG7G3S\n\n\n"
+	},
+	{
+		"correct_answers":
+		[
+			"0"
+		],
+		"test": "1\nDFS\nD1D\n"
+	},
+	{
+		"correct_answers":
+		[
+			"0"
+		],
+		"test": "1\nIXVGJREVJ\n3GJR4\n"
+	},
+	{
+		"correct_answers":
+		[
+			"1"
+		],
+		"test": "1\nVAN\nVA1\n"
+	},
+	{
+		"correct_answers":
+		[
+			"1"
+		],
+		"test": "1\nGOUAPUI\nGOUA0P1I\n"
+	},
+	{
+		"correct_answers":
+		[
+			"0"
+		],
+		"test": "1\nMFQXLOZF\n521\n"
+	}
+]
